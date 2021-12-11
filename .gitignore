@@ -2,5 +2,6 @@
 !.gitignore
 !*.cpp
 !*.h
+!*.py
 !Utils/
 !Google/
